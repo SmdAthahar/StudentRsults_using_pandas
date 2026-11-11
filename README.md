@@ -16,7 +16,6 @@ This project demonstrates data analysis using Python and Pandas. It uses a stude
 ## Technologies Used
 - Python
 - Pandas
-- Google Colab
 
 ## Output
 The processed dataset is saved as `output/student_results.csv`.
